@@ -76,7 +76,7 @@ class WC_API_Client {
 			//'WC_API_Order_Statuses' => 'order_statuses',
 			//'WC_API_Order_Notes'    => 'order_notes',
 			//'WC_API_Order_Refunds'  => 'order_refunds',
-			//'WC_API_Products'       => 'products',
+			'WC_API_Products'       => 'products',
 			// ...etc
 		);
 
